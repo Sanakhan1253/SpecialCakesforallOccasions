@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-size: 1em;
+	line-height: 1.3em;
+}
+/* classes */
+.burntred {
+	color: #E94D40;
+}
+.navyblue {
+	color: #0C243C;
+}
+.specialcakesfont {
+	font-family: Arial, sans-serif;
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+.clearboth {
+    clear: both;
+}
+
+/* Brand color usage */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+nav {
+  background-color: #0C243C;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #E94D40;
+}
+
+h1, h2 {
+  color: #E94D40;
+}
+
+button {
+  background-color: #E94D40;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c13a2e;
+}
+
+table, th, td {
+  border: 1px solid #0C243C;
+}
+
+
